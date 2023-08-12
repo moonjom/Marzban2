@@ -55,7 +55,7 @@ export const proxyFingerprint: { title: string; value: string }[] = [
 ];
 
 export const XTLSFlows = [
-  { title: "none", value: "" },
+  { title: "tls", value: "tls" },
   { title: "xtls-rprx-vision", value: "xtls-rprx-vision" },
 ];
 
